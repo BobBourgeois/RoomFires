@@ -13,6 +13,7 @@ h3 {
 }
 .Wisdom {
     text-align: center;
+    top: 6px;
 }
 
 body p {
@@ -24,6 +25,12 @@ body p {
     padding-left: 5%;
     padding-right: 5%;
 }
+body footer {
+    text-align: center;
+    top: auto;
+    padding-top: 20px;
+}
+
 h2  {
     margin-left: 3%;
     padding-left: 5%;
@@ -47,6 +54,7 @@ h2  {
     text-indent: 0;
     padding-left: 7%;
     margin-left: 3%;
+    padding-right: 0px;
 }
 .Room #DocTitle {
     text-align: center;
