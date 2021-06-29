@@ -3,14 +3,64 @@
 
 h3 {
     font-style: italic;
+    padding-bottom: 0px;
+    height: 3px;
+    font-weight: normal;
+    color: #770206;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 5%;
 }
+.Wisdom {
+    text-align: center;
+}
+
+body p {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+h2  {
+    margin-left: 3%;
+    padding-left: 5%;
+    color: #770206;
+}
+
+
+.RQs ul {
+    list-style-type: none;
+    margin-left: 3%;
+    padding-left: 9%;
+    padding-right: 10%;
+}
+.RQs ul li {
+    padding-bottom: 9px;
+}
+
+
+
 .RQs p {
+    text-indent: 0;
+    padding-left: 7%;
+    margin-left: 3%;
 }
 .Room #DocTitle {
     text-align: center;
+    color: #770206;
+    font-size: xx-large;
 }
 .Room ul li {
     list-style-position: outside;
     clear: none;
     list-style-type: none;
+    margin-left: 10%;
+    margin-right: 15%;
+}
+body {
+    color: 0;
+    background-color: #FDF3E0;
 }
