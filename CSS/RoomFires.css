@@ -14,6 +14,8 @@ h3 {
 .Wisdom {
     text-align: center;
     top: 6px;
+    color: #770206;
+    font-size: small;
 }
 
 body p {
@@ -67,6 +69,7 @@ h2  {
     list-style-type: none;
     margin-left: 10%;
     margin-right: 15%;
+    margin-bottom: 1em;
 }
 body {
     color: 0;
