@@ -4,18 +4,23 @@
 h3 {
     font-style: italic;
     padding-bottom: 0px;
-    height: 3px;
     font-weight: normal;
     color: #770206;
     margin-left: 3%;
     margin-right: 3%;
     padding-left: 5%;
+    line-height: 1;
 }
 .Wisdom {
     text-align: center;
     top: 6px;
     color: #770206;
     font-size: small;
+    border: thin solid #770206;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-left: 12%;
+    margin-right: 11%;
 }
 
 body p {
@@ -53,10 +58,11 @@ h2  {
 
 
 .RQs p {
-    text-indent: 0;
+
     padding-left: 7%;
     margin-left: 3%;
     padding-right: 0px;
+  
 }
 .Room #DocTitle {
     text-align: center;
