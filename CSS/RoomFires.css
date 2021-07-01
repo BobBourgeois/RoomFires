@@ -6,7 +6,7 @@ h3 {
     padding-bottom: 0px;
     font-weight: normal;
     color: #770206;
-    margin-left: 3%;
+    margin-left: 4%;
     margin-right: 3%;
     padding-left: 5%;
     line-height: 1;
@@ -21,17 +21,23 @@ h3 {
     padding-bottom: 3px;
     margin-left: 12%;
     margin-right: 11%;
+    margin-top: 6%;
 }
 
 body p {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin-left: 3%;
-    margin-right: 3%;
+    margin-left: 4%;
+    margin-right: 9%;
     padding-left: 5%;
     padding-right: 5%;
 }
+.Wisdom p {
+    font-variant: small-caps;
+    font-size: large;
+}
+
 body footer {
     text-align: center;
     top: auto;
@@ -39,7 +45,7 @@ body footer {
 }
 
 h2  {
-    margin-left: 3%;
+    margin-left: 4%;
     padding-left: 5%;
     color: #770206;
 }
@@ -49,7 +55,7 @@ h2  {
     list-style-type: none;
     margin-left: 3%;
     padding-left: 9%;
-    padding-right: 10%;
+    padding-right: 18%;
 }
 .RQs ul li {
     padding-bottom: 9px;
@@ -58,10 +64,12 @@ h2  {
 
 
 .RQs p {
-
     padding-left: 7%;
     margin-left: 3%;
-    padding-right: 0px;
+    padding-right: 10%;
+    white-space: normal;
+    border-width: 0px;
+    border-style: dotted;
   
 }
 .Room #DocTitle {
