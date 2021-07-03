@@ -1,4 +1,24 @@
 @charset "utf-8";
+body {
+    color: 0;
+    background-color: #FDF3E0;
+}
+
+body p {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-left: 4%;
+    margin-right: 9%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+h2  {
+    margin-left: 4%;
+    padding-left: 5%;
+    color: #770206;
+}
 /* CSS Document */
 
 h3 {
@@ -11,67 +31,7 @@ h3 {
     padding-left: 5%;
     line-height: 1;
 }
-.Wisdom {
-    text-align: center;
-    top: 6px;
-    color: #770206;
-    font-size: small;
-    border: thin solid #770206;
-    padding-top: 3px;
-    padding-bottom: 3px;
-    margin-left: 12%;
-    margin-right: 11%;
-    margin-top: 6%;
-}
 
-body p {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    margin-left: 4%;
-    margin-right: 9%;
-    padding-left: 5%;
-    padding-right: 5%;
-}
-.Wisdom p {
-    font-variant: small-caps;
-    font-size: large;
-}
-
-body footer {
-    text-align: center;
-    top: auto;
-    padding-top: 20px;
-}
-
-h2  {
-    margin-left: 4%;
-    padding-left: 5%;
-    color: #770206;
-}
-
-
-.RQs ul {
-    list-style-type: none;
-    margin-left: 3%;
-    padding-left: 9%;
-    padding-right: 18%;
-}
-.RQs ul li {
-    padding-bottom: 9px;
-}
-
-
-
-.RQs p {
-    padding-left: 7%;
-    margin-left: 3%;
-    padding-right: 10%;
-    white-space: normal;
-    border-width: 0px;
-    border-style: dotted;
-  
-}
 .Room #DocTitle {
     text-align: center;
     color: #770206;
@@ -85,7 +45,48 @@ h2  {
     margin-right: 15%;
     margin-bottom: 1em;
 }
-body {
-    color: 0;
-    background-color: #FDF3E0;
+
+
+
+.RQs p {
+    padding-left: 7%;
+    margin-left: 3%;
+    padding-right: 10%;
+    white-space: normal;
+    border-width: 0px;
+    border-style: dotted;
+  
+}
+
+
+.RQs ul {
+    list-style-type: none;
+    margin-left: 3%;
+    padding-left: 9%;
+    padding-right: 18%;
+}
+.RQs ul li {
+    padding-bottom: 9px;
+}
+.Wisdom {
+    text-align: center;
+    top: 6px;
+    color: #770206;
+    font-size: small;
+    border: thin solid #770206;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-left: 12%;
+    margin-right: 11%;
+    margin-top: 6%;
+}
+.Wisdom p {
+    font-variant: small-caps;
+    font-size: large;
+}
+
+body footer {
+    text-align: center;
+    top: auto;
+    padding-top: 20px;
 }
