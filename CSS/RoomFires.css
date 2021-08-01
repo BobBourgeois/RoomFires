@@ -115,12 +115,12 @@ h3 {
 
 .RQs ul {
     list-style-type: none;
-    margin-left: 3%;
-    padding-left: 9%;
     padding-right: 18%;
+    margin-left: 1%;
 }
 .RQs ul li {
     padding-bottom: 9px;
+    padding-left: 2%;
 }
 .Wisdom {
     text-align: center;
