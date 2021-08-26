@@ -18,6 +18,9 @@ body p {
     padding-left: 5%;
     padding-right: 5%;
 }
+body header {
+}
+
 
 h2  {
     margin-left: 4%;
@@ -64,7 +67,10 @@ h3 {
     font-size: x-large;
     border: none;
     outline: none;
-    padding: 14px 16px;
+    padding-top:0%;
+    padding-right:0%;
+    padding-left: 1rem;
+    padding-bottom: 0%;
     background-color: inherit;
     font-family: inherit;
     margin: 0;
