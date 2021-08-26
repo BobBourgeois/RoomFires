@@ -67,9 +67,9 @@ h3 {
     font-size: x-large;
     border: none;
     outline: none;
-    padding-top:0%;
-    padding-right:0%;
-    padding-left: 1rem;
+
+    
+    padding-left: 0;
     padding-bottom: 0%;
     background-color: inherit;
     font-family: inherit;
@@ -82,22 +82,22 @@ h3 {
 }
 
 .dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #FDF7EA;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
+    display: none;
+    position: absolute;
+    background-color: #FDF7EA;
+    min-width: 10rem;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
 }
 
 .dropdown-content a {
     float: none;
     color: #770206;
-    padding: 12px 16px;
+    padding: .8rem 1rem;
     text-decoration: none;
     display: block;
     text-align: left;
-    font-size: large;
+    font-size: 1.2rem;
 }
 
 .dropdown-content a:hover {
