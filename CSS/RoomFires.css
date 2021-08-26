@@ -61,6 +61,7 @@ h3 {
 .dropdown {
     float: left;
     overflow: hidden;
+    padding-left: 1rem;
 }
 
 .dropdown .dropbtn {
