@@ -158,8 +158,8 @@ body footer {
 		font-size:  12px
 	}
 	.dropdown .dropbtn {
-    font-size: 2.5rem;
-/*    color: #00FF54; */
+    font-size: 5rem;
+    color: #00FF54; 
 	}
 	.dropdown-content a {
     padding: .8rem 1rem;
