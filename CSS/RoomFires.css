@@ -152,3 +152,18 @@ body footer {
     top: auto;
     padding-top: 20px;
 }
+
+@media (max-width: 450px){
+	html{
+		font-size:  12px
+	}
+	.dropdown .dropbtn {
+    font-size: 2.5rem;
+/*    color: #00FF54; */
+	}
+	.dropdown-content a {
+    padding: .8rem 1rem;
+    font-size: 2.5rem;
+	/*color: #00FF54;*/
+	}
+}

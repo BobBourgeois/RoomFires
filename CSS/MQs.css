@@ -1,15 +1,17 @@
 @charset "utf-8";
 
 
-@media (max-width: 450px){
+/*@media (max-width: 450px){
 	html{
 		font-size:  12px
 	}
 	.dropdown .dropbtn {
     font-size: 3rem;
+    color: #00FF54;
 	}
 	.dropdown-content a {
     padding: .8rem 1rem;
     font-size: 3rem;
+	color: #00FF54;
 	}
-}
+} */
