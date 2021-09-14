@@ -49,6 +49,8 @@ h3 {
     font-style: normal;
     font-weight: 600;
     padding-top: 1.5%;
+    margin-left: 0px;
+    padding-right: 2rem;
 }
 .Room ul li {
     list-style-position: outside;
@@ -155,7 +157,7 @@ body footer {
 
 @media (max-width : 480px ){
 	html{
-		font-size:  12px
+		font-size:  13px
 	}
 	.dropdown .dropbtn {
     font-size: 2.2rem;
