@@ -40,6 +40,9 @@ h3 {
     padding-left: 5%;
     line-height: 1;
 }
+hr {
+    width: 10%;
+}
 
 .Room #DocTitle {
     text-align: center;
