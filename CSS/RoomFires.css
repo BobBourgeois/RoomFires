@@ -14,12 +14,13 @@ body p {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin-left: 4%;
-    margin-right: 9%;
-    padding-left: 5%;
-    padding-right: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-left: 9%;
+    padding-right: 4%;
 }
 body header {
+    padding-right: 5.2%;
 }
 
 
@@ -164,8 +165,16 @@ body num {
     font-size: 0.9rem;
     vertical-align: super;
 }
-
-@media (max-width : 480px ){
+body num2 {
+    font-size: 0.9rem;
+    vertical-align: super;
+}
+@media (max-width : 488px ){
+body num2 {
+    font-size: 0.1rem;
+    vertical-align: middle;
+    color: #FDF7EA;
+}
 	html{
 		font-size:  13px
 	}
@@ -178,4 +187,20 @@ body num {
     font-size: 1.2rem;
 	/*color: #00FF54;*/
 	}
+body header {
+    padding-right: 3%;
+}
+}
+
+@media (max-width: 558px){
+body header {
+    padding-right: 3%;
+}
+body num2 {
+    font-size: 0.1rem;
+    vertical-align: middle;
+    color: #FDF7EA;
+}
+
+
 }
