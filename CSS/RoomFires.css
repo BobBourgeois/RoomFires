@@ -206,9 +206,9 @@ body num2 {
 }
 
 
-@media (min-width: 950px){
+@media (min-width: 945px){
 body {
-    margin-left: 5%;
-    margin-right: 8%;
+    margin-left: 6%;
+    margin-right: 10%;
 }
 }
