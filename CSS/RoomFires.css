@@ -182,14 +182,14 @@ body {
 }
 .tooltiptext {
     position: absolute;
-    left: 10%;
+    left: 3%;
     top: 45%;
     z-index: 9;
     background-color: #FDF7EA;
-    
     padding: 15px;
     -webkit-box-shadow: 2px 2px 5px #BDB2B2;
     box-shadow: 2px 2px 5px #BDB2B2;
+    width: auto;
 }
 .tooltip:hover .tooltipcontent{
 	position: absolute;
