@@ -193,14 +193,16 @@ body {
     width: auto;
 }
 .tooltip:hover .tooltipcontent{
-	position: absolute;
+	/*position: absolute;*/
     visibility: visible;
     opacity: 1;
 }
 .tooltipimage {
-	position: absolute; 
-	-webkit-box-shadow: 14px 12px 5px #BDB2B2;
+    position: absolute;
+    -webkit-box-shadow: 14px 12px 5px #BDB2B2;
     box-shadow: 14x 12px 5px #BDB2B2;
+    padding-left: 0%;
+    margin-left: -203%;
 }
 @media (max-width : 488px ){
 body num2 {
