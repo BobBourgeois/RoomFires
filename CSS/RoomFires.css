@@ -149,13 +149,14 @@ hr {
     border: thin solid #770206;
     padding-top: 3px;
     padding-bottom: 3px;
-    margin-left: 12%;
+    margin-left: 10%;
     margin-right: 12%;
     margin-top: 6%;
 }
 .Wisdom p {
     font-variant: small-caps;
     font-size: large;
+    padding-right: 3em;
 }
 
 body footer {
