@@ -176,8 +176,9 @@ body num2 {
 body {
 }
 .tooltip {
-	position: relative;
-	border-bottom: 1px dashed
+    position: relative;
+    border-bottom: 1.2px dashed;
+    font-style: normal;
 }
 .tooltipcontent{
 
