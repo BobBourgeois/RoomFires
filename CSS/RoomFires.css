@@ -61,6 +61,18 @@ hr {
     margin-left: 0px;
     padding-right: 2rem;
 }
+.Room #DocSubtitle {
+    text-align: center;
+    color: #770206;
+    font-size: 1.3rem;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+    font-weight: 600;
+    padding-top: 0%;
+    margin-left: 0px;
+    padding-right: 2rem;
+    border-top-left-radius: 0px;
+}
 .Room ul li {
     list-style-position: outside;
     clear: none;
