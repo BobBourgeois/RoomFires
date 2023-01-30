@@ -3,7 +3,7 @@
 
 body {
     color: 0;
-    background-color: #FDF7EA;
+    background-color: #FDFAF3;
 }
 
 body ul li {
@@ -103,13 +103,13 @@ hr {
 }
 
 .dropdown:hover .dropbtn {
-  background-color: #FDF7EA;
+  background-color: #FDFAF3;
 }
 
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #FDF7EA;
+    background-color: #FDFAF3;
     min-width: 10rem;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -126,7 +126,7 @@ hr {
 }
 
 .dropdown-content a:hover {
-    background-color: #F5E4BE;
+    background-color: #FDFAF3;
 }
 
 .dropdown:hover .dropdown-content {
@@ -201,7 +201,7 @@ body {
 	top: 1em;
 	left: -9vw;
 	z-index: 1;
-    background-color: #FDF7EA;
+    background-color: #FDFAF3;
     -webkit-box-shadow: 2px 2px 5px #BDB2B2;
     box-shadow: 2px 2px 5px #BDB2B2;
     text-align: left;
@@ -262,7 +262,7 @@ body num2 {
 
 @media (min-width: 945px){
 body {
-    margin-left: 13%;
-    margin-right: 14%;
+    margin-left: 15%;
+    margin-right: 16%;
 }
 }
