@@ -5,10 +5,15 @@ body {
     color: 0;
     background-color: #FDFAF3;
 }
+body ul {
+    margin-top: -0.6em;
+    margin-bottom: 0.3em;
+}
 
 body ul li {
     margin-left: 10%;
     list-style-type: none;
+    margin-top: 0px;
 }
 
 
@@ -155,6 +160,7 @@ hr {
     list-style-type: none;
     padding-right: 18%;
     margin-left: 1%;
+    margin-top: -0.6em;
 }
 .RQs ul li {
     padding-bottom: 9px;
