@@ -202,7 +202,7 @@ body {
 }
 .tooltip {
     position: relative;
-    border-bottom: 1.3px dashed #770206;
+    border-bottom: 1.3px dashed;
 
 }
 .tooltipcontent{
