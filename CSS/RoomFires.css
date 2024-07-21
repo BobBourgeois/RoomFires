@@ -88,12 +88,13 @@ a{color: black}
     padding-bottom: 0px;
 }
 .Room ul li {
-    list-style-position: outside;
     clear: none;
     list-style-type: none;
     margin-left: 10%;
     margin-right: 10%;
     margin-bottom: 0.41em;
+    padding-left: 0px;
+    list-style-position: inside;
 }
 
 .dropdown {
