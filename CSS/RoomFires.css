@@ -12,7 +12,7 @@ body ul {
 }
 
 body ul li {
-    margin-left: 10%;
+    margin-left: 9%;
     list-style-type: none;
     margin-top: 0px;
     padding-bottom: 9px;
@@ -92,7 +92,7 @@ a{color: black}
 .Room ul li {
     clear: none;
     list-style-type: none;
-    margin-left: 10%;
+    margin-left: 9%;
     margin-right: 10%;
     padding-left: 0px;
     list-style-position: inside;
