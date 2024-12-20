@@ -282,9 +282,14 @@ body num2 {
 }
 
 
-@media (min-width: 945px){
+@media (min-width: 950px){
 body {
     margin-left: 17%;
     margin-right: 18%;
 }
+}
+
+@media (min-width: 1240px){
+    .Room #DocTitle {
+    font-size: 2.1rem;
 }
