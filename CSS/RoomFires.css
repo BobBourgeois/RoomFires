@@ -218,9 +218,9 @@ body figcaption {
 }
 .tooltiptext {
     position: absolute;
-	top: 1em;
-	left: -9vw;
-	z-index: 1;
+    top: 1em;
+    left: -9vw;
+    z-index: 1;
     background-color: #FDFAF3;
     -webkit-box-shadow: 2px 2px 5px #BDB2B2;
     box-shadow: 2px 2px 5px #BDB2B2;
@@ -230,6 +230,7 @@ body figcaption {
     padding-top: 7px;
     padding-right: 7px;
     padding-bottom: 7px;
+    line-height: 1.0rem;
 }
 .tooltip:hover .tooltipcontent{
 	/*position: absolute;*/
