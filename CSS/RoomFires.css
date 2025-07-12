@@ -225,6 +225,7 @@ body figcaption {
     -webkit-box-shadow: 2px 2px 5px #BDB2B2;
     box-shadow: 2px 2px 5px #BDB2B2;
     text-align: left;
+    font-weight: normal;
     width: 20vw;
     padding-left: 7px;
     padding-top: 7px;
