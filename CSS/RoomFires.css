@@ -108,6 +108,21 @@ a{color: black}
     padding-left: 0px;
     list-style-position: inside;
 }
+.Room #BreakoutPanel {
+   border:1px; 
+   border-style: solid ;
+   margin-left: 14%;
+   margin-bottom: 3%;
+   padding-left: 4%;
+   padding-top: 1%;
+   padding-bottom: 1%;
+   padding-right: 4%;  
+   margin-right: 10%;
+   border-color: darkgrey;
+   background-color: white;
+   font-size: .9rem;
+ 
+}
 
 .dropdown {
     float: left;
